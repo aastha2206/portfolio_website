@@ -49,6 +49,7 @@ Add a backend for the contact form
 Add more projects and certifications
 Improve accessibility
 Add additional interactive features
+
 📄 License
 
 This project is created for personal portfolio and educational purposes.
